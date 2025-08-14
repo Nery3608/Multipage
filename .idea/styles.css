@@ -1,0 +1,35 @@
+.button {
+    display: inline-block;
+    border: none;
+    border-radius: 8px;
+    font-size: 30px;
+    margin-left: 450px;
+    background: linear-gradient(black, crimson);
+}
+
+.button:hover {
+    background: linear-gradient(crimson, black);
+}
+
+.button-two {
+    display: inline-block;
+    border: none;
+    border-radius: 8px;
+    font-size: 30px;
+    margin-left: 250px;
+    background: linear-gradient(black, skyblue);
+}
+
+.button-two:hover {
+    background: linear-gradient(skyblue, black);
+}
+
+
+body {
+    background: radial-gradient(greenyellow, black);
+}
+
+p {
+    font-size: 40px;
+    color: white;
+}
